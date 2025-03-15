@@ -3,6 +3,7 @@
 ### Electronics_Store_Sales_Analysis 
 #### Electronics_Store_Sales_Analysis 
 
-Electronics Store Sales Analysis 1  
-Electronics Store Sales Dashboard 2 
-Sales Analysis Power BI Dashboard  3
+Electronics Store Sales Analysis  
+Electronics Store Sales Dashboard   
+Sales Analysis Power BI Dashboard   
+testing sql code
