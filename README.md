@@ -7,6 +7,7 @@ Microsoft Power BI - Microsoft Excel - Power Query Editor - Python
 ![Power bi](https://img.shields.io/badge/power_BI-FF9900?style=for-the-badge&logo=powerbi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-3776AB?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-B1361E?style=for-the-badge&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-2962FF?style=for-the-badge&logo=visual%20studio&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 
 ![Static Badge](https://img.shields.io/badge/Power_BI-red?style=plastic&logo=Python&color=white)
+![Static Badge](https://img.shields.io/badge/POWER_BI-red?style=plastic&color=white)
 
 
 ## Background & Overview
