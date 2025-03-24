@@ -5,7 +5,7 @@ Microsoft Power BI - Microsoft Excel - Power Query Editor - Python
 
 ## Background & Overview
 
-This project provides an in-depth analysis of the **Canadian job market** trends for data-related roles. The dataset, collected from **Glassdoor**, includes job postings from **January 1–31, 2025**, covering six key roles: 
+This [interactive] project provides an in-depth analysis of the **Canadian job market** trends for data-related roles. The dataset, collected from **Glassdoor**, includes job postings from **January 1–31, 2025**, covering six key roles: 
 
 Data Analysis Stack:  
 The analysis utilizes **Power Query** for data extraction and transformation and **Excel** for visualization through an **interactive** dashboard.  
