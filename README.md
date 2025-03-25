@@ -35,7 +35,7 @@ This project analyzes sales data from an electronics store to identify key trend
 Using Microsoft Power BI and Power Query Editor, I pulled data from 6 different sources (including Azure Cloud) and created a relational database model and a Microsoft Power BI report to monitor sales performance across the organisation. The 4-page report is interactive and filterable, and uses historical data from 2010-2023 sales to track relevant KPIs and forecast their performance in the near future.
 
 
-### Star Schema Data Model for Sales and Returns Analysis 
+### Data Model for Sales and Returns Analysis 
 
 ![STAR-Schema data model](https://github.com/user-attachments/assets/4a5b3d97-c3c4-4046-b06f-0f118ec7f589)
 
