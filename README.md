@@ -1,5 +1,8 @@
 # Electronics Store Sales Analysis 
 
+![0 2nd Dashboard](https://github.com/user-attachments/assets/07d3790d-4a96-451c-a50f-f3bd52d7cbc6)
+
+
 ### Stack
 ![Static Badge](https://img.shields.io/badge/Power_BI-%2376B900?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Microsoft_Excel-%23D40000?style=for-the-badge)
