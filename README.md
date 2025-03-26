@@ -25,9 +25,7 @@ To develop this **interactive** dashboard, a series of powerful tools is leverag
 </p>
 
 
-
-
-## 📊 Electromart Sales Report – Executive Summary  
+## 📊 Executive Summary  
 
 ![1 Executive Summary](https://github.com/user-attachments/assets/b3c4bedb-c72e-4c30-a2d4-f0b026a11986)
  
@@ -64,7 +62,7 @@ This Sales Report provides a high-level summary of key sales metrics, including 
 ### 📈 Revenue Trend  
 The **revenue trend chart** shows steady growth since early 2023, with notable fluctuations but an overall upward trajectory.  
 
-# 📊 Electromart Sales Report – Customer Report  
+# 📊 Customer Report  
 
 This **Customer Report** provides insights into the **customer base, purchasing trends, and top customers**. It highlights customer segmentation by **income level and occupation**, tracks order trends over time, and identifies the highest-revenue customers.  
 
@@ -79,7 +77,7 @@ The **customer order trend chart** shows a steady increase in orders over time, 
 - **Mr. Joseph Bates** is the highest-grossing customer, generating **$9.13K** from 35 orders.
 - Several other customers, including Mrs. Kristy Morrison ($6.12K) and Mr. Andrew Jones ($6.32K), also contribute significantly.
 
-# 🎧 Electromart Sales Report – Product Report  
+# 🎧 Product Report  
  
 The **Product Report** provides insights into revenue, profit, and order trends across various products. It highlights the top-selling items, monthly revenue performance, and return rates.  
 
@@ -98,7 +96,7 @@ The **Product Report** provides insights into revenue, profit, and order trends 
 - The **highest return rates** are observed in **Wired Headsets (2.57%)** and **Noise Cancelling Headsets (2.28%)**, indicating possible quality or customer satisfaction concerns.  
 - Accessories like **Charging Cables, DisplayPort Cables, and Laptop Cases** show moderate return rates between **2% and 2.3%**, suggesting areas for potential product improvements.  
 
-# 🌍 Electromart Sales Report – Territory Report  
+# 🌍 Territory Report  
 
 This **Territory Report** provides insights into **total orders by city and province**, highlighting key geographical regions driving sales. A **map visualization** further illustrates order distribution across Canada.  
 
