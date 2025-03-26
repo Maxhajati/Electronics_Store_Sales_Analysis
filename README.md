@@ -1,4 +1,4 @@
-# Electronics Store Sales Analysis - CANADA
+# Electronics Store Sales Analysis
 ![0 2nd Dashboard](https://github.com/user-attachments/assets/ae17811c-c9b5-4d5a-b06f-48e5c4ac568f)
 
 ## Background & Overview
@@ -96,7 +96,7 @@ The **Product Report** provides insights into revenue, profit, and order trends 
 # Territory Report  
 <img src="https://github.com/user-attachments/assets/ffb87cca-4d63-47d4-a09b-e8ae34265346" width="85%">
 
-This **Territory Report** provides insights into total orders by city and province highlighting key geographical regions driving sales. A map visualization further illustrates order distribution across Canada.  
+This **Territory Report** provides insights into total orders by city and province highlighting key geographical regions driving sales. A map visualization further illustrates order distribution across **Canada**.  
 
 ### Geographical Order Trends in Canada
 - **Ontario** leads with **23.8K orders**, followed by Quebec (**12.5K**), Alberta (**4.7K**), and British Columbia (**4.6K**), while Manitoba and Nova Scotia contribute **2.0K** and **1.5K** orders, respectively. Smaller contributions come from Saskatchewan, Newfoundland, New Brunswick, and Prince Edward Island.  
@@ -116,25 +116,4 @@ This **Territory Report** provides insights into total orders by city and provin
 ## Financial & Profitability Enhancements
 ✅ **Boost Profit Margins on Best-Selling Products** like Accessories & Headsets  
 ✅ **Cut Operational Costs** by securing better supplier deals on high-volume items  
-✅ **Offer Flexible Payment Plans** including **buy-now-pay-later (BNPL) options** to attract more buyers
-
----
-
-## Data Model Overview 
-To generate the required data for analysis, a fictitious company with synthetic customer names was created using **Python**. To support sales and return data analysis in Power BI, a **Star Schema Data Model** was designed. This model follows a fact-dimension structure, ensuring optimized performance and efficient querying.
-
-
-#### **Key Components:**  
-- **Fact Tables:**  
-  - **Sales Data:** Contains transaction details such as order date, order quantity, and customer & product references.  
-  - **Return Data:** Tracks product returns, including return date and quantity.  
-
-- **Dimension Tables:**  
-  - **Customers Lookup:** Stores customer demographics (e.g., income, gender, education).  
-  - **Product Lookup:** Provides product details, linked to **Product Categories Lookup**.  
-  - **Calendar Lookup:** Supports time-based analysis (e.g., month, quarter, year).  
-  - **City & Province Lookup:** Enables geographic segmentation.  
-
-This model ensures **efficient data relationships** for generating insights on sales trends, customer behavior, and return rates.  
-
-![STAR-Schema data model](https://github.com/user-attachments/assets/4a5b3d97-c3c4-4046-b06f-0f118ec7f589)
+✅ **Offer Flexible Payment Plans** including **buy-now-pay-later (BNPL) options** to attract more buyers   
