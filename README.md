@@ -25,24 +25,7 @@ To develop this **interactive** dashboard, a series of powerful tools is leverag
 </p>
 
 
-## Data Model Overview 
-To generate the required data for analysis, a fictitious company with synthetic customer names was created using **Python**. To support sales and return data analysis in Power BI, a **Star Schema Data Model** was designed. This model follows a fact-dimension structure, ensuring optimized performance and efficient querying.
 
-
-#### **Key Components:**  
-- **Fact Tables:**  
-  - **Sales Data:** Contains transaction details such as order date, order quantity, and customer & product references.  
-  - **Return Data:** Tracks product returns, including return date and quantity.  
-
-- **Dimension Tables:**  
-  - **Customers Lookup:** Stores customer demographics (e.g., income, gender, education).  
-  - **Product Lookup:** Provides product details, linked to **Product Categories Lookup**.  
-  - **Calendar Lookup:** Supports time-based analysis (e.g., month, quarter, year).  
-  - **City & Province Lookup:** Enables geographic segmentation.  
-
-This model ensures **efficient data relationships** for generating insights on sales trends, customer behavior, and return rates.  
-
-![STAR-Schema data model](https://github.com/user-attachments/assets/4a5b3d97-c3c4-4046-b06f-0f118ec7f589)
 
 ## 📊 Electromart Sales Report – Executive Summary  
 
@@ -236,3 +219,24 @@ Ontario and Quebec are the **strongest sales regions**, with Toronto leading at 
 - Leverage city-level trends to tailor regional promotions.  
 
 
+
+
+
+## Data Model Overview 
+To generate the required data for analysis, a fictitious company with synthetic customer names was created using **Python**. To support sales and return data analysis in Power BI, a **Star Schema Data Model** was designed. This model follows a fact-dimension structure, ensuring optimized performance and efficient querying.
+
+
+#### **Key Components:**  
+- **Fact Tables:**  
+  - **Sales Data:** Contains transaction details such as order date, order quantity, and customer & product references.  
+  - **Return Data:** Tracks product returns, including return date and quantity.  
+
+- **Dimension Tables:**  
+  - **Customers Lookup:** Stores customer demographics (e.g., income, gender, education).  
+  - **Product Lookup:** Provides product details, linked to **Product Categories Lookup**.  
+  - **Calendar Lookup:** Supports time-based analysis (e.g., month, quarter, year).  
+  - **City & Province Lookup:** Enables geographic segmentation.  
+
+This model ensures **efficient data relationships** for generating insights on sales trends, customer behavior, and return rates.  
+
+![STAR-Schema data model](https://github.com/user-attachments/assets/4a5b3d97-c3c4-4046-b06f-0f118ec7f589)
