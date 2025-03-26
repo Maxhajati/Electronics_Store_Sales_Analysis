@@ -26,6 +26,7 @@ To develop this **interactive** dashboard, a series of powerful tools is leverag
 
 ## 📊 Executive Summary  
 ![1 Executive Summary](https://github.com/user-attachments/assets/555db587-76c5-4e9d-a06a-2a78bdf22e22)
+<img src="https://github.com/user-attachments/assets/555db587-76c5-4e9d-a06a-2a78bdf22e22" width="80%">
 
 This Sales Report provides a high-level summary of key sales metrics, including **total revenue, profit, and order trends**. The report visualizes performance across different timeframes and locations, helping stakeholders track business growth and identify areas for improvement.  
 
