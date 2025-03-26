@@ -13,7 +13,7 @@ The dataset, generated using **Python**, represents Electromart’s business dat
 
 To develop this **interactive** dashboard, I leveraged a series of powerful tools, ensuring seamless data processing, analysis, and visualization.
 ## Tech Stack  
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Power%20BI-%23F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20Query-385E9D?style=for-the-badge&logo=microsoft&logoColor=white" />
