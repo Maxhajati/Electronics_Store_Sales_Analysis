@@ -1,4 +1,4 @@
-# Electronics_Store_Sales_Analysis 
+# Electronics Store Sales Analysis 
 
 ### Stack
 ![Static Badge](https://img.shields.io/badge/Power_BI-%2376B900?style=for-the-badge)
