@@ -2,17 +2,13 @@
 ![0 2nd Dashboard](https://github.com/user-attachments/assets/ae17811c-c9b5-4d5a-b06f-48e5c4ac568f)
 
 ## Background & Overview
-Designed for data-driven analysis, this **Sales Dashboard** presents key business metrics for a fictional electronics store, **Electromart**.
-The dataset, generated using **Python**, represents Electromart’s business data across the 2023–2024 time frame and includes:  
+Designed for data-driven insights, this Sales Dashboard showcases key metrics for **Electromart**, a fictional **Canadian** electronics store. It analyzes sales trends, customer behavior, and product performance through an interactive dashboard. The dataset, generated with **Python**, simulates Electromart’s 2023–2024 business data, including:
+
 - 💰 **Sales Data**: Transactions capturing product sales  
 - 🔄 **Return Data**: Records of returned items  
 - 🧑‍💼 **Customer Information**: Demographic and purchasing details  
 - 📦 **Product Details**: Information on available products, pricing, and categories  
 - 🌍 **Territory Lookup**: Regional and city-level sales data   
-
-This project analyzes sales data from an electronics store to identify key trends, customer behavior, and product performance. It includes data cleaning, exploratory data analysis (EDA), and visualization using Excel and Python. The project also features an interactive dashboard to showcase insights such as revenue trends, top-selling products, and regional sales distribution. This analysis demonstrates fundamental data analytics skills, including data manipulation, visualization, and business insights generation, making it suitable for portfolio presentation.
-
-Using Microsoft Power BI and Power Query Editor, I pulled data from 6 different sources (including Azure Cloud) and created a relational database model and a Microsoft Power BI report to monitor sales performance across the organisation. The 4-page report is interactive and filterable, and uses historical data from 2010-2023 sales to track relevant KPIs and forecast their performance in the near future.
 
 ## Data Analysis Stack  
 To develop this **interactive** dashboard, a series of powerful tools is leveraged, ensuring seamless data processing, analysis, and visualization.
