@@ -110,16 +110,16 @@ This **Territory Report** provides insights into **total orders by city and prov
 
 # 📢 **Electromart Business Recommendations**  
 
-## ** Revenue Growth Strategies**  
+## Revenue Growth Strategies
 ✅ **Boost Sales in Top Product Categories** like Accessories & Headsets  
 ✅ **Strengthen Regional Sales Focus** in Ontario & Quebec  
 ✅ **Maximize Revenue from High-Value Customers** who drive significant sales
 
-## ** Marketing & Customer Engagement**  
+## Marketing & Customer Engagement
 ✅ **Focus on High-Income & Technician Segments** as they drive most orders  
 ✅ **Enhance Digital & Social Media Marketing** through Facebook, Instagram, and LinkedIn ads
 
-## ** Financial & Profitability Enhancements**  
+## Financial & Profitability Enhancements
 ✅ **Boost Profit Margins on Best-Selling Products** like Accessories & Headsets  
 ✅ **Cut Operational Costs** by securing better supplier deals on high-volume items  
 ✅ **Offer Flexible Payment Plans** including **buy-now-pay-later (BNPL) options** to attract more buyers
