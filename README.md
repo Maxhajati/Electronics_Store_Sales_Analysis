@@ -3,11 +3,6 @@
 ![0 2nd Dashboard](https://github.com/user-attachments/assets/07d3790d-4a96-451c-a50f-f3bd52d7cbc6)
 
 
-### Stack
-![Static Badge](https://img.shields.io/badge/Power_BI-%2376B900?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Microsoft_Excel-%23D40000?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Power_Query-%231C9AD6?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Python-%23FAD83B?style=for-the-badge&logo=python)
 
 
 ## Background & Overview
@@ -29,6 +24,14 @@ I also created custom SQL queries to access the centralised Azure database from 
 NOTE: the data presented here is from a fictitious company and has been fabricated. It is NOT sensitive data from real customers.
 
 I created a fictitious company and generated all the required data files for this analysis using Python.
+
+
+### Stack
+![Static Badge](https://img.shields.io/badge/Power_BI-%2376B900?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Microsoft_Excel-%23D40000?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Power_Query-%231C9AD6?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Python-%23FAD83B?style=for-the-badge&logo=python)
+
 
 ## Executive Summary
 
