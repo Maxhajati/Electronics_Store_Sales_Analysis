@@ -1,4 +1,4 @@
-# Electronics Store Sales Analysis 
+# Electronics Store Sales Analysis - CANADA
 
 ![0 2nd Dashboard](https://github.com/user-attachments/assets/07d3790d-4a96-451c-a50f-f3bd52d7cbc6)
 
@@ -44,7 +44,6 @@ This model ensures **efficient data relationships** for generating insights on s
 
 ![STAR-Schema data model](https://github.com/user-attachments/assets/4a5b3d97-c3c4-4046-b06f-0f118ec7f589)
 
-
 ## 📊 Electromart Sales Report – Executive Summary  
 
 ![1 Executive Summary](https://github.com/user-attachments/assets/b3c4bedb-c72e-4c30-a2d4-f0b026a11986)
@@ -82,65 +81,49 @@ This Sales Report provides a high-level summary of key sales metrics, including 
 ### 📈 Revenue Trend  
 The **revenue trend chart** shows steady growth since early 2023, with notable fluctuations but an overall upward trajectory.  
 
-----------
-
 # 📊 Electromart Sales Report – Customer Report  
 
 This **Customer Report** provides insights into the **customer base, purchasing trends, and top customers**. It highlights customer segmentation by **income level and occupation**, tracks order trends over time, and identifies the highest-revenue customers.  
-
-## 🔑 Key Highlights  
-- **Total Customers:** **8.98K**  
 
 ### 📉 Customer Segmentation by Income Level and Occupation
   - High-income customers contribute the majority of orders (63.3%), followed by average (22.5%) and low-income (14.2%) groups.
   - Technicians (38.2%) and salespersons (37.9%) are the dominant buyer segments, with clerks making up 23.9% of orders.
 
-
 ### 📈 Customer Order Trends  
 The **customer order trend chart** shows a steady increase in orders over time, with notable growth in **late 2023 and early 2024**.  
 
 ### 🏆 Top Customers by Revenue  
-- **Mr. Joseph Bates** is the highest-grossing customer, generating $9.13K from 35 orders.
+- **Mr. Joseph Bates** is the highest-grossing customer, generating **$9.13K** from 35 orders.
 - Several other customers, including Mrs. Kristy Morrison ($6.12K) and Mr. Andrew Jones ($6.32K), also contribute significantly.
 
----
+# 🎧 Electromart Sales Report – Product Report  
+ 
+The **Product Report** provides insights into revenue, profit, and order trends across various products. It highlights the top-selling items, monthly revenue performance, and return rates.  
 
-# 📍 Electromart Sales Report – Product Report  
+## **Revenue & Profit Trends**  
+- Monthly revenue has fluctuated between **$0.65M and $0.92M**, with **profit ranging from $0.20M to $0.29M** over the past year.  
+- The highest revenue month was **November ($0.92M)**, while **February recorded the lowest revenue ($0.65M).**  
 
+## **Top-Selling Products**  
+- **Gaming Headset** is the highest revenue-generating product with **$395K from 2,185 orders** and a **1.92% return rate.**  
+- Other top-performing products include:  
+  - **Noise Cancelling Headset:** **$646K revenue (2,139 orders, 2.28% return rate).**  
+  - **Wireless Headset:** **$408K revenue (2,038 orders, 1.71% return rate).**  
+  - **Wired Headset:** **$172K revenue (1,789 orders, 2.57% return rate).**  
 
+## **Return Rates & Customer Insights**  
+- The **highest return rates** are observed in **Wired Headsets (2.57%)** and **Noise Cancelling Headsets (2.28%)**, indicating possible quality or customer satisfaction concerns.  
+- Accessories like **Charging Cables, DisplayPort Cables, and Laptop Cases** show moderate return rates between **2% and 2.3%**, suggesting areas for potential product improvements.  
 
----
-
-# 📍 Electromart Sales Report – Territory Report  
+# 🌍 Electromart Sales Report – Territory Report  
 
 This **Territory Report** provides insights into **total orders by city and province**, highlighting key geographical regions driving sales. A **map visualization** further illustrates order distribution across Canada.  
 
-## 🔑 Key Highlights  
-- **Top Province by Orders:** **Ontario (23.8K orders)**  
-- **Top City by Orders:** **Toronto (16.8K orders)**  
-
-### 📊 Total Orders by Province  
-- **Ontario:** **23.8K orders**  
-- **Quebec:** **12.5K orders**  
-- **Alberta:** **4.7K orders**  
-- **British Columbia:** **4.6K orders**  
-- **Manitoba:** **2.0K orders**  
-- **Nova Scotia:** **1.5K orders**  
-- **Other Provinces:** Small order contributions from Saskatchewan, Newfoundland, New Brunswick, and Prince Edward Island.  
-
-### 🌆 Total Orders by City  
-- **Toronto:** **16.8K orders**  
-- **Montreal:** **8.4K orders**  
-- **Vancouver:** **3.6K orders**  
-- **Ottawa:** **2.7K orders**  
-- **Calgary:** **2.5K orders**  
-- **Other Cities:** Edmonton, Hamilton, Quebec City, Winnipeg, London, Halifax, and Windsor all contribute over **1K orders** each.  
-
-### 🗺️ Geographic Insights  
-The **territory map visualization** highlights major sales hotspots, with **Ontario and Quebec dominating**. **Toronto, Montreal, and Vancouver** stand out as the top cities contributing to total orders.  
+### 📊 Geographical Order Trends in Canada
+- **Ontario** leads with **23.8K orders**, followed by Quebec (**12.5K**), Alberta (**4.7K**), and British Columbia (**4.6K**), while Manitoba and Nova Scotia contribute **2.0K** and **1.5K** orders, respectively. Smaller contributions come from Saskatchewan, Newfoundland, New Brunswick, and Prince Edward Island.  
+- **Toronto** dominates with **16.8K orders**, followed by Montreal (**8.4K**), Vancouver (**3.6K**), Ottawa (**2.7K**), and Calgary (**2.5K**). Other major cities, including Edmonton, Hamilton, Quebec City, Winnipeg, London, Halifax, and Windsor, each contribute over **1K orders**.
 
 ---
-
 
 # 📢 **Business Recommendations for Electromart**  
 
@@ -236,6 +219,11 @@ The **majority of orders** come from **high-income customers and technicians**, 
 - Continue monitoring trends to sustain order growth.
 
 
+## **Conclusion & Recommendations**  3
+- **Increase sales of high-revenue products** such as headsets by promoting bundle deals or discounts.  
+- **Monitor and reduce return rates** for Wired and Noise Cancelling Headsets to improve customer satisfaction.  
+- **Optimize inventory for peak sales months**, particularly **October and November**, when revenue is highest.  
+- **Expand product offerings in accessories**, as they contribute to consistent revenue despite moderate return rates.  
 
 
 
