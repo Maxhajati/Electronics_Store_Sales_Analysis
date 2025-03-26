@@ -1,6 +1,5 @@
 # Electronics Store Sales Analysis - CANADA
-
-![0 2nd Dashboard](https://github.com/user-attachments/assets/07d3790d-4a96-451c-a50f-f3bd52d7cbc6)
+![0 2nd Dashboard](https://github.com/user-attachments/assets/ae17811c-c9b5-4d5a-b06f-48e5c4ac568f)
 
 ## Background & Overview
 Designed for data-driven analysis, this **Sales Dashboard** presents key business metrics for a fictional electronics store, **Electromart**.
