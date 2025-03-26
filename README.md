@@ -24,7 +24,7 @@ To develop this **interactive** dashboard, a series of powerful tools is leverag
 </p>
 
 
-## 📊 Executive Summary  
+## Executive Summary  
 <img src="https://github.com/user-attachments/assets/555db587-76c5-4e9d-a06a-2a78bdf22e22" width="85%">
 
 This Sales Report provides a high-level summary of key sales metrics, including **total revenue, profit, and order trends**. The report visualizes performance across different timeframes and locations, helping stakeholders track business growth and identify areas for improvement.  
@@ -39,7 +39,7 @@ This Sales Report provides a high-level summary of key sales metrics, including 
 - **Monthly Profit:** **$174.5K** *(Down 9.69% from last month: $193.2K)*  
 - **Monthly Orders:** **3,000** *(Decreased 220 from last month: -6.83%)*  
 
-### 📍 Sales & Profit Distribution  
+### 💰 Sales & Profit Distribution  
 - **Orders by Province:**  
   - Ontario: **58% (23.8K orders)**  
   - Quebec: **30.5% (12.5K orders)**  
@@ -60,24 +60,23 @@ This Sales Report provides a high-level summary of key sales metrics, including 
 ### 📈 Revenue Trend  
 The **revenue trend chart** shows steady growth since early 2023, with notable fluctuations but an overall upward trajectory.  
 
-# 📊 Customer Report  
-<img src="https://github.com/user-attachments/assets/18a07317-f04d-4e4d-b03a-eb4e33124360" width="85%">
-
+# Customer Report  
+<img src="https://github.com/user-attachments/assets/173e9daf-9cb1-4f95-92f8-2e78ec20527f" width="85%">
 
 This **Customer Report** provides insights into the **customer base, purchasing trends, and top customers**. It highlights customer segmentation by **income level and occupation**, tracks order trends over time, and identifies the highest-revenue customers.  
 
-### 📉 Customer Segmentation by Income Level and Occupation
+### Customer Segmentation by Income Level and Occupation
   - High-income customers contribute the majority of orders (63.3%), followed by average (22.5%) and low-income (14.2%) groups.
   - Technicians (38.2%) and salespersons (37.9%) are the dominant buyer segments, with clerks making up 23.9% of orders.
 
-### 📈 Customer Order Trends  
+### Customer Order Trends  
 The **customer order trend chart** shows a steady increase in orders over time, with notable growth in **late 2023 and early 2024**.  
 
-### 🏆 Top Customers by Revenue  
+### Top Customers by Revenue  
 - **Mr. Joseph Bates** is the highest-grossing customer, generating **$9.13K** from 35 orders.
 - Several other customers, including Mrs. Kristy Morrison ($6.12K) and Mr. Andrew Jones ($6.32K), also contribute significantly.
 
-# 🎧 Product Report  
+# Product Report  
 <img src="https://github.com/user-attachments/assets/95a6e216-3d21-4bbd-8042-2d97c7e64457" width="85%">
 
  
@@ -98,18 +97,18 @@ The **Product Report** provides insights into revenue, profit, and order trends 
 - The **highest return rates** are observed in **Wired Headsets (2.57%)** and **Noise Cancelling Headsets (2.28%)**, indicating possible quality or customer satisfaction concerns.  
 - Accessories like **Charging Cables, DisplayPort Cables, and Laptop Cases** show moderate return rates between **2% and 2.3%**, suggesting areas for potential product improvements.  
 
-# 🌍 Territory Report  
+# Territory Report  
 <img src="https://github.com/user-attachments/assets/ffb87cca-4d63-47d4-a09b-e8ae34265346" width="85%">
 
 This **Territory Report** provides insights into **total orders by city and province**, highlighting key geographical regions driving sales. A **map visualization** further illustrates order distribution across Canada.  
 
-### 📊 Geographical Order Trends in Canada
+### Geographical Order Trends in Canada
 - **Ontario** leads with **23.8K orders**, followed by Quebec (**12.5K**), Alberta (**4.7K**), and British Columbia (**4.6K**), while Manitoba and Nova Scotia contribute **2.0K** and **1.5K** orders, respectively. Smaller contributions come from Saskatchewan, Newfoundland, New Brunswick, and Prince Edward Island.  
 - **Toronto** dominates with **16.8K orders**, followed by Montreal (**8.4K**), Vancouver (**3.6K**), Ottawa (**2.7K**), and Calgary (**2.5K**). Other major cities, including Edmonton, Hamilton, Quebec City, Winnipeg, London, Halifax, and Windsor, each contribute over **1K orders**.
 
 ---
 
-# 📢 **Electromart Business Recommendations**  
+# **Recommendations**  
 
 ## Revenue Growth Strategies
 ✅ **Boost Sales in Top Product Categories** like Accessories & Headsets  
