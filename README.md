@@ -26,8 +26,7 @@ To develop this **interactive** dashboard, a series of powerful tools is leverag
 
 
 ## 📊 Executive Summary  
-
-![11](https://github.com/user-attachments/assets/4c1fa366-a644-4ca7-9826-3fb3b974cb1f)
+![1 Executive Summary](https://github.com/user-attachments/assets/555db587-76c5-4e9d-a06a-2a78bdf22e22)
 
 This Sales Report provides a high-level summary of key sales metrics, including **total revenue, profit, and order trends**. The report visualizes performance across different timeframes and locations, helping stakeholders track business growth and identify areas for improvement.  
 
@@ -63,6 +62,7 @@ This Sales Report provides a high-level summary of key sales metrics, including 
 The **revenue trend chart** shows steady growth since early 2023, with notable fluctuations but an overall upward trajectory.  
 
 # 📊 Customer Report  
+![2 Customer Detail](https://github.com/user-attachments/assets/18a07317-f04d-4e4d-b03a-eb4e33124360)
 
 This **Customer Report** provides insights into the **customer base, purchasing trends, and top customers**. It highlights customer segmentation by **income level and occupation**, tracks order trends over time, and identifies the highest-revenue customers.  
 
@@ -78,6 +78,7 @@ The **customer order trend chart** shows a steady increase in orders over time, 
 - Several other customers, including Mrs. Kristy Morrison ($6.12K) and Mr. Andrew Jones ($6.32K), also contribute significantly.
 
 # 🎧 Product Report  
+![3 Product Detail](https://github.com/user-attachments/assets/95a6e216-3d21-4bbd-8042-2d97c7e64457)
  
 The **Product Report** provides insights into revenue, profit, and order trends across various products. It highlights the top-selling items, monthly revenue performance, and return rates.  
 
@@ -97,6 +98,7 @@ The **Product Report** provides insights into revenue, profit, and order trends 
 - Accessories like **Charging Cables, DisplayPort Cables, and Laptop Cases** show moderate return rates between **2% and 2.3%**, suggesting areas for potential product improvements.  
 
 # 🌍 Territory Report  
+![4 Territory Detail](https://github.com/user-attachments/assets/ffb87cca-4d63-47d4-a09b-e8ae34265346)
 
 This **Territory Report** provides insights into **total orders by city and province**, highlighting key geographical regions driving sales. A **map visualization** further illustrates order distribution across Canada.  
 
