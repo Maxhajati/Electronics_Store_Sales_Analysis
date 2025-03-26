@@ -6,6 +6,16 @@
 
 
 ## Background & Overview
+Designed for data-driven analysis, this Sales Dashboard presents key business metrics for a fictional electronics store, Electromart.
+The dataset, generated using Python, represents Electromart’s business data across the 2023–2024 time frame and includes:
+💰 Sales Data: Transactions capturing product sales
+🔄 Return Data: Records of returned items
+🧑‍💼 Customer Information: Demographic and purchasing details
+📦 Product Details: Information on available products, pricing, and categories
+🌍 Territory Lookup: Regional and city-level sales data
+
+
+
 This project analyzes sales data from an electronics store to identify key trends, customer behavior, and product performance. It includes data cleaning, exploratory data analysis (EDA), and visualization using Excel and Python. The project also features an interactive dashboard to showcase insights such as revenue trends, top-selling products, and regional sales distribution. This analysis demonstrates fundamental data analytics skills, including data manipulation, visualization, and business insights generation, making it suitable for portfolio presentation.
 This [interactive] project provides an in-depth analysis of the **Canadian job market** trends for data-related roles. The dataset, collected from **Glassdoor**, includes job postings from **January 1–31, 2025**, covering six key roles: 
 
