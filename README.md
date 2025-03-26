@@ -7,7 +7,7 @@
 
 ## Background & Overview
 Designed for data-driven analysis, this **Sales Dashboard** presents key business metrics for a fictional electronics store, **Electromart**.
-The dataset, generated using Python, represents Electromart’s business data across the 2023–2024 time frame and includes:  
+The dataset, generated using **Python**, represents Electromart’s business data across the 2023–2024 time frame and includes:  
 - 💰 **Sales Data**: Transactions capturing product sales  
 - 🔄 **Return Data**: Records of returned items  
 - 🧑‍💼 **Customer Information**: Demographic and purchasing details  
