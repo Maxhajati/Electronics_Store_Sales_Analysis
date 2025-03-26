@@ -75,7 +75,6 @@ The **customer order trend chart** shows a steady increase in orders over time, 
 # Product Report  
 <img src="https://github.com/user-attachments/assets/95a6e216-3d21-4bbd-8042-2d97c7e64457" width="85%">
 
- 
 The **Product Report** provides insights into revenue, profit, and order trends across various products. It highlights the top-selling items, monthly revenue performance, and return rates.  
 
 ## **Revenue & Profit Trends**  
@@ -117,3 +116,4 @@ This **Territory Report** provides insights into total orders by city and provin
 ✅ **Boost Profit Margins on Best-Selling Products** like Accessories & Headsets  
 ✅ **Cut Operational Costs** by securing better supplier deals on high-volume items  
 ✅ **Offer Flexible Payment Plans** including **buy-now-pay-later (BNPL) options** to attract more buyers   
+
