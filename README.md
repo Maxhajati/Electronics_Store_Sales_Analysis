@@ -2,9 +2,6 @@
 
 ![0 2nd Dashboard](https://github.com/user-attachments/assets/07d3790d-4a96-451c-a50f-f3bd52d7cbc6)
 
-
-
-
 ## Background & Overview
 Designed for data-driven analysis, this **Sales Dashboard** presents key business metrics for a fictional electronics store, **Electromart**.
 The dataset, generated using **Python**, represents Electromart’s business data across the 2023–2024 time frame and includes:  
@@ -12,8 +9,16 @@ The dataset, generated using **Python**, represents Electromart’s business dat
 - 🔄 **Return Data**: Records of returned items  
 - 🧑‍💼 **Customer Information**: Demographic and purchasing details  
 - 📦 **Product Details**: Information on available products, pricing, and categories  
-- 🌍 **Territory Lookup**: Regional and city-level sales data  
+- 🌍 **Territory Lookup**: Regional and city-level sales data   
 
+To develop this **interactive** dashboard, I leveraged a series of powerful tools, ensuring seamless data processing, analysis, and visualization.
+## Tech Stack  
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-%23F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Query-385E9D?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 
 This project analyzes sales data from an electronics store to identify key trends, customer behavior, and product performance. It includes data cleaning, exploratory data analysis (EDA), and visualization using Excel and Python. The project also features an interactive dashboard to showcase insights such as revenue trends, top-selling products, and regional sales distribution. This analysis demonstrates fundamental data analytics skills, including data manipulation, visualization, and business insights generation, making it suitable for portfolio presentation.
