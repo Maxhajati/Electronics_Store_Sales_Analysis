@@ -54,7 +54,7 @@ This Sales Report provides a high-level summary of key sales metrics, including 
   - Webcams, Printers, Microphones follow behind  
 
 ### 📈 Revenue Trend  
-The **revenue trend chart** shows steady growth since early 2023, with notable fluctuations but an overall upward trajectory.  
+The **revenue trend chart shows steady growth since early 2023**, with notable fluctuations but an overall upward trajectory.  
 
 # Customer Report  
 <img src="https://github.com/user-attachments/assets/173e9daf-9cb1-4f95-92f8-2e78ec20527f" width="85%">
