@@ -2,7 +2,8 @@
 ![0 2nd Dashboard](https://github.com/user-attachments/assets/ae17811c-c9b5-4d5a-b06f-48e5c4ac568f)
 
 ## Background & Overview
-Designed for data-driven insights, this Sales Dashboard showcases key metrics for **Electromart**, a fictional **Canadian** electronics store. It analyzes sales trends, customer behavior, and product performance through an interactive dashboard. The dataset, generated with **Python**, simulates Electromart’s 2023–2024 business data, including:
+Designed for data-driven insights, this Sales Dashboard showcases key metrics for **Electromart**, a fictional **Canadian** electronics store. It analyzes sales trends, customer behavior, and product performance through an **interactive** dashboard.   
+The dataset, generated with **Python**, simulates Electromart’s 2023–2024 business data, including:
 
 - 💰 **Sales Data**: Transactions capturing product sales  
 - 🔄 **Return Data**: Records of returned items  
@@ -32,7 +33,7 @@ This Sales Report provides a high-level summary of key sales metrics, including 
 ### 📉 Monthly Performance  
 - **Monthly Revenue:** **$0.56M** *(Down 10.43% from last month: $0.62M)*  
 - **Monthly Profit:** **$174.5K** *(Down 9.69% from last month: $193.2K)*  
-- **Monthly Orders:** **3,000** *(Decreased 220 from last month: -6.83%)*  
+- **Monthly Orders:** **3,000** *(Decreased 220 orders from last month: -6.83%)*  
 
 ### 💰 Sales & Profit Distribution  
 - **Orders by Province:**  
@@ -58,11 +59,11 @@ The **revenue trend chart** shows steady growth since early 2023, with notable f
 # Customer Report  
 <img src="https://github.com/user-attachments/assets/173e9daf-9cb1-4f95-92f8-2e78ec20527f" width="85%">
 
-This **Customer Report** provides insights into the **customer base, purchasing trends, and top customers**. It highlights customer segmentation by **income level and occupation**, tracks order trends over time, and identifies the highest-revenue customers.  
+This **Customer Report** provides insights into the customer base, purchasing trends, and top customers It highlights customer segmentation by income level and occupation, tracks order trends over time, and identifies the highest-revenue customers.  
 
 ### Customer Segmentation by Income Level and Occupation
-  - High-income customers contribute the majority of orders (63.3%), followed by average (22.5%) and low-income (14.2%) groups.
-  - Technicians (38.2%) and salespersons (37.9%) are the dominant buyer segments, with clerks making up 23.9% of orders.
+  - **High-income** customers contribute the majority of orders (**63.3%**), followed by average (22.5%) and low-income (14.2%) groups.
+  - **Technicians** (**38.2%**) and salespersons (37.9%) are the dominant buyer segments, with clerks making up 23.9% of orders.
 
 ### Customer Order Trends  
 The **customer order trend chart** shows a steady increase in orders over time, with notable growth in **late 2023 and early 2024**.  
@@ -95,7 +96,7 @@ The **Product Report** provides insights into revenue, profit, and order trends 
 # Territory Report  
 <img src="https://github.com/user-attachments/assets/ffb87cca-4d63-47d4-a09b-e8ae34265346" width="85%">
 
-This **Territory Report** provides insights into **total orders by city and province**, highlighting key geographical regions driving sales. A **map visualization** further illustrates order distribution across Canada.  
+This **Territory Report** provides insights into total orders by city and province highlighting key geographical regions driving sales. A map visualization further illustrates order distribution across Canada.  
 
 ### Geographical Order Trends in Canada
 - **Ontario** leads with **23.8K orders**, followed by Quebec (**12.5K**), Alberta (**4.7K**), and British Columbia (**4.6K**), while Manitoba and Nova Scotia contribute **2.0K** and **1.5K** orders, respectively. Smaller contributions come from Saskatchewan, Newfoundland, New Brunswick, and Prince Edward Island.  
