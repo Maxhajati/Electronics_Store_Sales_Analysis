@@ -23,7 +23,6 @@ To develop this **interactive** dashboard, a series of powerful tools is leverag
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-
 ## Executive Summary  
 <img src="https://github.com/user-attachments/assets/555db587-76c5-4e9d-a06a-2a78bdf22e22" width="85%">
 
@@ -106,8 +105,6 @@ This **Territory Report** provides insights into **total orders by city and prov
 - **Ontario** leads with **23.8K orders**, followed by Quebec (**12.5K**), Alberta (**4.7K**), and British Columbia (**4.6K**), while Manitoba and Nova Scotia contribute **2.0K** and **1.5K** orders, respectively. Smaller contributions come from Saskatchewan, Newfoundland, New Brunswick, and Prince Edward Island.  
 - **Toronto** dominates with **16.8K orders**, followed by Montreal (**8.4K**), Vancouver (**3.6K**), Ottawa (**2.7K**), and Calgary (**2.5K**). Other major cities, including Edmonton, Hamilton, Quebec City, Winnipeg, London, Halifax, and Windsor, each contribute over **1K orders**.
 
----
-
 # **Recommendations**  
 
 ## Revenue Growth Strategies
@@ -125,7 +122,6 @@ This **Territory Report** provides insights into **total orders by city and prov
 ✅ **Offer Flexible Payment Plans** including **buy-now-pay-later (BNPL) options** to attract more buyers
 
 ---
-
 
 ## Data Model Overview 
 To generate the required data for analysis, a fictitious company with synthetic customer names was created using **Python**. To support sales and return data analysis in Power BI, a **Star Schema Data Model** was designed. This model follows a fact-dimension structure, ensuring optimized performance and efficient querying.
