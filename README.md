@@ -61,16 +61,19 @@ The **revenue trend chart shows steady growth since early 2023**, with notable f
 
 This **Customer Report** provides insights into the customer base, purchasing trends, and top customers It highlights customer segmentation by income level and occupation, tracks order trends over time, and identifies the highest-revenue customers.  
 
+### Total Customers 
+The total number of unique customers who made purchases during the analyzed 2023-2024 period are **8.98K**.
+
 ### Customer Segmentation by Income Level and Occupation
-  - **High-income** customers contribute the majority of orders (**63.3%**), followed by average (22.5%) and low-income (14.2%) groups.
-  - **Technicians** (**38.2%**) and salespersons (37.9%) are the dominant buyer segments, with clerks making up 23.9% of orders.
+  - **Average-income** customers contribute the majority of orders (**63.3%**), followed by **low-income (22.5%) and hight-income (14.2%)** groups.
+  - **Clerks (38.2%) and technicians (37.9%)** are the dominant buyer segments, with salespersons making up 23.9% of orders.
 
 ### Customer Order Trends  
-The **customer order trend chart** shows a steady increase in orders over time, with notable growth in **late 2023 and early 2024**.  
+The **customer order trend chart** shows a steady increase in orders over time, with notable growth in **mid and late 2024**.  
 
 ### Top Customers by Revenue  
-- **Mr. Joseph Bates** is the highest-grossing customer, generating **$9.13K** from 35 orders.
-- Several other customers, including Mrs. Kristy Morrison ($6.12K) and Mr. Andrew Jones ($6.32K), also contribute significantly.
+- **Mr. Joseph Bates** is the highest-grossing customer, generating **$9.13K** from **35** orders.
+- Several other customers, including **Mr. Andrew Jones ($6.32K) and Mrs. Kristy Morrison ($6.12K)**, also contribute significantly.
 
 # Product Report  
 <img src="https://github.com/user-attachments/assets/95a6e216-3d21-4bbd-8042-2d97c7e64457" width="85%">
@@ -89,8 +92,7 @@ The **Product Report** provides insights into revenue, profit, and order trends 
   - **Wired Headset:** **$172K revenue (1,789 orders, 2.57% return rate).**  
 
 ## **Return Rates & Customer Insights**  
-- The **highest return rates** are observed in **Wired Headsets (2.57%)** and **Noise Cancelling Headsets (2.28%)**, indicating possible quality or customer satisfaction concerns.  
-- Accessories like **Charging Cables, DisplayPort Cables, and Laptop Cases** show moderate return rates between **2% and 2.3%**, suggesting areas for potential product improvements.  
+- The **highest return rates** are observed in **Wired Headsets (2.57%)** and **MicroSD Cards (2.52%)**, indicating possible quality or customer satisfaction concerns. 
 
 # Territory Report  
 <img src="https://github.com/user-attachments/assets/ffb87cca-4d63-47d4-a09b-e8ae34265346" width="85%">
