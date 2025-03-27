@@ -1,7 +1,7 @@
 # Electronics Store Sales Analysis
 ![0 2nd Dashboard](https://github.com/user-attachments/assets/ae17811c-c9b5-4d5a-b06f-48e5c4ac568f)
 
-## Background & Overview
+# Background & Overview
 Designed for data-driven insights, this Sales Dashboard showcases key metrics for **Electromart**, a fictional **Canadian** electronics store. It analyzes sales trends, customer behavior, and product performance through an **interactive** dashboard.   
 The dataset, generated with **Python**, simulates Electromart’s 2023–2024 business data, including:
 
@@ -20,7 +20,7 @@ To develop this **interactive** dashboard, a series of powerful tools is leverag
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-## Executive Summary  
+# Executive Summary  
 <img src="https://github.com/user-attachments/assets/555db587-76c5-4e9d-a06a-2a78bdf22e22" width="85%">
 
 This Sales Report provides a high-level summary of key sales metrics, including **total revenue, profit, and order trends**. The report visualizes performance across different timeframes and locations, helping stakeholders track business growth and identify areas for improvement.  
