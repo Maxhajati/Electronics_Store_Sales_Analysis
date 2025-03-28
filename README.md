@@ -1,4 +1,4 @@
-# Electronics Store Sales Analysis
+# Electronics Store Sales Analysis 
 ![0 2nd Dashboard](https://github.com/user-attachments/assets/ae17811c-c9b5-4d5a-b06f-48e5c4ac568f)
 
 # Background & Overview
@@ -52,6 +52,7 @@ This Sales Report provides a high-level summary of key sales metrics, including 
   - Storage: **6.7K orders**  
   - Monitors: **6.4K orders**  
   - Webcams, Printers, Microphones follow behind  
+
 
 ### 📈 Revenue Trend  
 The **revenue trend chart shows steady growth since early 2023**, with notable fluctuations but an overall upward trajectory.  
