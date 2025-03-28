@@ -85,6 +85,7 @@ The **Product Report** provides insights into revenue, profit, and order trends 
 - Monthly revenue has fluctuated between **$0.65M and $0.92M**, with **profit ranging from $0.20M to $0.29M** over the past year.  
 - The highest revenue month was **November ($0.92M)**, while **February recorded the lowest revenue ($0.65M).**  
 
+
 ## **Top-Selling Products**  
 - **Gaming Headset** is the highest revenue-generating product with **$395K from 2,185 orders** and a **1.92% return rate.**  
 - Other top-performing products include:  
@@ -103,6 +104,7 @@ This **Territory Report** provides insights into total orders by city and provin
 ### Geographical Order Trends in Canada
 - **Ontario** leads with **23.8K orders**, followed by Quebec (**12.5K**), Alberta (**4.7K**), and British Columbia (**4.6K**), while Manitoba and Nova Scotia contribute **2.0K** and **1.5K** orders, respectively. Smaller contributions come from Saskatchewan, Newfoundland, New Brunswick, and Prince Edward Island.  
 - **Toronto** dominates with **16.8K orders**, followed by Montreal (**8.4K**), Vancouver (**3.6K**), Ottawa (**2.7K**), and Calgary (**2.5K**). Other major cities, including Edmonton, Hamilton, Quebec City, Winnipeg, London, Halifax, and Windsor, each contribute over **1K orders**.
+
 
 # **Recommendations**  
 
